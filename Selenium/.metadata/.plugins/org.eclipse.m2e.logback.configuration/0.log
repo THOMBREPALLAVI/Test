@@ -1,0 +1,3 @@
+2021-08-30 20:58:46,337 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-30 21:33:26,638 [Worker-19: Git Repository Change Scanner] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\Sai\Desktop\workplace\Thinkq\Selenium\test\.git]
+2021-08-30 21:50:37,927 [Worker-25: Git Repository Change Scanner] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\Sai\git\test\.git]
